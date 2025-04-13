@@ -209,13 +209,13 @@ const SummerCamps = () => {
                     <div className="flex items-start">
                       <Mail className="text-tulip shrink-0 mt-1" size={20} />
                       <div className="ml-2 text-gray-600">
-                        <p>info@tulipkidsinc.com</p>
+                        <p>info@tulipkidsfoundation.org</p>
                         <p>sneha@tulipkidsinc.com</p>
                       </div>
                     </div>
                     <div className="flex items-start">
                       <Phone className="text-tulip shrink-0 mt-1" size={20} />
-                      <p className="ml-2 text-gray-600">(408) 930 – 1862</p>
+                      <p className="ml-2 text-gray-600">+1 (408) 930 – 1862</p>
                     </div>
                   </div>
                 </div>
